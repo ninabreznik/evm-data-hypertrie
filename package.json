@@ -1,0 +1,16 @@
+{
+  "name": "evm-data-hypertrie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blakejs": "^1.1.0",
+    "hypertrie": "^3.8.0"
+  }
+}
